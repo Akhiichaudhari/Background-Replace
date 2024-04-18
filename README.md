@@ -11,7 +11,7 @@ It utilizes Python and image processing libraries to achieve this functionality.
 
 
 ## Directory Structure :
-1. Product folder contain the input images.
-2. Random Image folder contain the randomly generated images.
-3. Output folder contain the final image, after replacing background image of an input image.
+1. Input Images folder contain the input images.
+2. Random Images folder contain the randomly generated images.
+3. Output Images folder contain the final image, after replacing background image of an input image.
 
